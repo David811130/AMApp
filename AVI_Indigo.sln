@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVI_Indigo", "AVI_Indigo\AVI_Indigo.csproj", "{3388829E-6CB7-46DF-91F1-0D664B65A6DF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1D2B5153-5936-443C-8FFB-6BE33A7901C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3388829E-6CB7-46DF-91F1-0D664B65A6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3388829E-6CB7-46DF-91F1-0D664B65A6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3388829E-6CB7-46DF-91F1-0D664B65A6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3388829E-6CB7-46DF-91F1-0D664B65A6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2B5153-5936-443C-8FFB-6BE33A7901C0}.Debug|Any CPU.ActiveCfg = Debug
+		{1D2B5153-5936-443C-8FFB-6BE33A7901C0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA733C17-00CE-431C-84E6-B951C2905407}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
